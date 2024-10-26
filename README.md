@@ -1,2 +1,1 @@
-Just compile it with Vs code(needs python extensions)
-only available in pt-br (for now)
+Just a first project, nothing advanced.
